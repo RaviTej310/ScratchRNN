@@ -88,7 +88,7 @@ end
 
 
 --MAIN FUNCTION
-	--The data for this code is assumed to be organized as follows: 
+	--The data for this code to work needs to be organized as follows: 
 	--main_data_folder contains folders named 1, 2, 3 etc.
 	--each folder in main_data_folder contains a sequence for the RNN. The images in each sequence are named 1.jpg, 2.jpg, 3.jpg, etc.
 	image_list={}
